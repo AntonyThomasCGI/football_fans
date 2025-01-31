@@ -1,6 +1,6 @@
 [gd_scene load_steps=18 format=3 uid="uid://c7xm4iofktrx0"]
 
-[ext_resource type="Script" path="res://menu.gd" id="1_rnsg8"]
+[ext_resource type="Script" path="res://Scripts/menu.gd" id="1_rnsg8"]
 [ext_resource type="FontFile" uid="uid://bsnjt655pqfy5" path="res://Resources/CursedTimerUlil-Aznm.ttf" id="2_fl752"]
 [ext_resource type="Texture2D" uid="uid://b343yios23c01" path="res://Art/play_button.png" id="2_kqkfy"]
 [ext_resource type="Texture2D" uid="uid://oggxlc01snpc" path="res://Art/play_hover.png" id="3_glqw1"]
